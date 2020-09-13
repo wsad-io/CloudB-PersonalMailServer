@@ -1,25 +1,9 @@
-Mail-in-a-Box
-=============
+CloudB - Personal Mail Server. 
 
-By [@JoshData](https://github.com/JoshData) and [contributors](https://github.com/mail-in-a-box/mailinabox/graphs/contributors).
+Simple Turnkey solution to solving the lack of decent, configurable, email solutions. Based on Mail-in-a-box we aim to improve the UI, UX, add additional features and automation. 
 
-Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 
-**Please see [https://mailinabox.email](https://mailinabox.email) for the project's website and setup guide!**
-
-* * *
-
-Our goals are to:
-
-* Make deploying a good mail server easy.
-* Promote [decentralization](http://redecentralize.org/), innovation, and privacy on the web.
-* Have automated, auditable, and [idempotent](https://web.archive.org/web/20190518072631/https://sharknet.us/2014/02/01/automated-configuration-management-challenges-with-idempotency/) configuration.
-* **Not** make a totally unhackable, NSA-proof server.
-* **Not** make something customizable by power users.
-
-Additionally, this project has a [Code of Conduct](CODE_OF_CONDUCT.md), which supersedes the goals above. Please review it when joining our community.
-
-The Box
+Mail in a Box - The Box
 -------
 
 Mail-in-a-Box turns a fresh Ubuntu 18.04 LTS 64-bit machine into a working mail server by installing and configuring various components.
